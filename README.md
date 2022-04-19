@@ -1,4 +1,4 @@
-# Portfolio-2C
+# Portfolio: 1* Trimestre, 2C
 Portfolio dos meus trabalhos
 _Sobre mim_ Me chamo Kauã, tenho 16 anos e estudo no Senai de São José
 
