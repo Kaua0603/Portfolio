@@ -1,0 +1,26 @@
+O que é um Sistema Operacional?
+É o conjunto de programas que fazem a interface do usuário entre seus programas com o computador.
+
+Quais são os três objetivos principais? defina-os.
+Conveniência: Tornar o uso do PC mais fácil.
+Eficiência:  Tornar eficiente o uso e o compartilhamento dos recursos existentes.
+Evolução: Possibilitar o constante aprimoramento e desenvolvimento de novas funções.
+
+O que são Periféricos e componentes?
+Os periféricos são dispositivos instalados junto ao computador, cuja função é auxiliar na comunicação homem/máquina. Esses componentes incluem hardware, software e rede, além de um sistema operacional e armazenamento de dados.
+
+Cite 5 funcionalidades de um Sistema Operacional.
+Permitir que os programas obtenham e armazenem informações;
+Controlar o fluxo de dados entre os componentes;
+Permitir que programas sejam executados sem a interferência de outros programas;
+Escalonamento entre programas que solicitam recursos;
+Facilitar o acesso aos recursos do sistema;
+
+O que é a interface genericamente chamada de SHELL?
+É um interpretador de comandos
+
+O que é e para que serve o Kernel de um Sistema Operacional?
+Gerencia os recursos do sistema;
+Possibilita comunicação entre hardware e software;
+
+
