@@ -1,0 +1,187 @@
+kaua_lp_silva@SN-358768 MINGW64 ~/Desktop
+$ mkdir aluno
+
+kaua_lp_silva@SN-358768 MINGW64 ~/Desktop
+$ cd aluno
+
+kaua_lp_silva@SN-358768 MINGW64 ~/Desktop/aluno
+$ touch teste1.txt teste2.txt teste3.txt
+
+kaua_lp_silva@SN-358768 MINGW64 ~/Desktop/aluno
+$ cd ..
+
+kaua_lp_silva@SN-358768 MINGW64 ~/Desktop
+$ mkdir aulaso
+
+kaua_lp_silva@SN-358768 MINGW64 ~/Desktop
+$ cp ~/Dektop/aluno/teste2.txt ~/Desktop/aulaso
+cp: cannot stat '/c/Users/kaua_lp_silva/Dektop/aluno/teste2.txt': No such fir directory
+
+kaua_lp_silva@SN-358768 MINGW64 ~/Desktop
+$ cd aulaso
+
+kaua_lp_silva@SN-358768 MINGW64 ~/Desktop/aulaso
+$ ls
+
+kaua_lp_silva@SN-358768 MINGW64 ~/Desktop/aulaso
+$ cp ~/Desktop/aluno ~/Desktop/aulaso
+cp: -r not specified; omitting directory '/c/Users/kaua_lp_silva/Desktop/alu
+
+kaua_lp_silva@SN-358768 MINGW64 ~/Desktop/aulaso
+$ cp ~/Desktop/aluno >/Desktop/aulaso
+bash: /Desktop/aulaso: No such file or directory
+
+kaua_lp_silva@SN-358768 MINGW64 ~/Desktop/aulaso
+$ cp ~/Desktop/aluno > /Desktop/aulaso
+bash: /Desktop/aulaso: No such file or directory
+
+kaua_lp_silva@SN-358768 MINGW64 ~/Desktop/aulaso
+$ cp ~/Desktop/aluno > aulaso
+cp: missing destination file operand after '/c/Users/kaua_lp_silva/Desktop/a
+Try 'cp --help' for more information.
+
+kaua_lp_silva@SN-358768 MINGW64 ~/Desktop/aulaso
+$ cp aluno > aulaso
+cp: missing destination file operand after 'aluno'
+Try 'cp --help' for more information.
+
+kaua_lp_silva@SN-358768 MINGW64 ~/Desktop/aulaso
+$ ls
+aulaso
+
+kaua_lp_silva@SN-358768 MINGW64 ~/Desktop/aulaso
+$ cd aluno
+bash: cd: aluno: No such file or directory
+
+kaua_lp_silva@SN-358768 MINGW64 ~/Desktop/aulaso
+$ cd ..
+
+kaua_lp_silva@SN-358768 MINGW64 ~/Desktop
+$ cd aluno
+
+kaua_lp_silva@SN-358768 MINGW64 ~/Desktop/aluno
+$ ls
+teste1.txt  teste2.txt  teste3.txt
+
+kaua_lp_silva@SN-358768 MINGW64 ~/Desktop/aluno
+$ cp aluno >> aulasso
+cp: missing destination file operand after 'aluno'
+Try 'cp --help' for more information.
+
+kaua_lp_silva@SN-358768 MINGW64 ~/Desktop/aluno
+$ cp aluno >> aulaso
+cp: missing destination file operand after 'aluno'
+Try 'cp --help' for more information.
+
+kaua_lp_silva@SN-358768 MINGW64 ~/Desktop/aluno
+$ cp ~/Desktop/aluno/teste1 ~/Desktop/aulaso
+cp: cannot stat '/c/Users/kaua_lp_silva/Desktop/aluno/teste1': No such file ory
+
+kaua_lp_silva@SN-358768 MINGW64 ~/Desktop/aluno
+$ ls ~/desktop/aluno
+aulaso  aulasso  teste1.txt  teste2.txt  teste3.txt
+
+kaua_lp_silva@SN-358768 MINGW64 ~/Desktop/aluno
+$ cp ~/Desktop/aluno/teste1.txt ~/desktop/aulas
+
+kaua_lp_silva@SN-358768 MINGW64 ~/Desktop/aluno
+$ cp ~/Desktop/aluno/teste1.txt ~/desktop/aulaso
+
+kaua_lp_silva@SN-358768 MINGW64 ~/Desktop/aluno
+$ cp ~/Desktop/aluno/teste2.txt ~/desktop/aulaso
+
+kaua_lp_silva@SN-358768 MINGW64 ~/Desktop/aluno
+$ cp ~/Desktop/aluno/teste3.txt ~/desktop/aulaso
+
+kaua_lp_silva@SN-358768 MINGW64 ~/Desktop/aluno
+$ mv ~/Desktop/aluno/teste2.txt ~/desktop/aulaso
+
+kaua_lp_silva@SN-358768 MINGW64 ~/Desktop/aluno
+$ rm ~/Desktop/aluno/teste1.txt
+
+kaua_lp_silva@SN-358768 MINGW64 ~/Desktop/aluno
+$cd ..
+
+kaua_lp_silva@SN-358768 MINGW64 ~/Desktop
+$ find -name 'teste'
+
+kaua_lp_silva@SN-358768 MINGW64 ~/Desktop
+$ cd ~/desktop/aulaso
+
+kaua_lp_silva@SN-358768 MINGW64 ~/desktop/aulaso
+$ find -name 'teste'
+
+kaua_lp_silva@SN-358768 MINGW64 ~/desktop/aulaso
+$ find -name 'teste*'
+./teste1.txt
+./teste2.txt
+./teste3.txt
+
+kaua_lp_silva@SN-358768 MINGW64 ~/desktop/aulaso
+$ cd ..
+
+kaua_lp_silva@SN-358768 MINGW64 ~/desktop
+$ cd ~/desktop/aulaso
+
+kaua_lp_silva@SN-358768 MINGW64 ~/desktop/aulaso
+$ find -name 't*'
+./teste1.txt
+./teste2.txt
+./teste3.txt
+
+kaua_lp_silva@SN-358768 MINGW64 ~/desktop/aulaso
+$ cd ..
+
+kaua_lp_silva@SN-358768 MINGW64 ~/desktop
+$ cd ~/desktop/aulaso
+
+kaua_lp_silva@SN-358768 MINGW64 ~/desktop/aulaso
+$ find -name 't*'
+./teste1.txt
+./teste2.txt
+./teste3.txt
+
+kaua_lp_silva@SN-358768 MINGW64 ~/desktop/aulaso
+$ cd ..
+
+kaua_lp_silva@SN-358768 MINGW64 ~/desktop
+$ cd ..
+
+kaua_lp_silva@SN-358768 MINGW64 ~
+$ mkdir /
+mkdir: cannot create directory ‘/’: File exists
+
+kaua_lp_silva@SN-358768 MINGW64 ~
+$ mkdir home
+
+kaua_lp_silva@SN-358768 MINGW64 ~
+$ cd home
+
+kaua_lp_silva@SN-358768 MINGW64 ~/home
+$ mkdir aluno
+
+kaua_lp_silva@SN-358768 MINGW64 ~/home
+$ cd aluno
+
+kaua_lp_silva@SN-358768 MINGW64 ~/home/aluno
+$ mkdir filmes
+
+kaua_lp_silva@SN-358768 MINGW64 ~/home/aluno
+$ cd filmes
+
+kaua_lp_silva@SN-358768 MINGW64 ~/home/aluno/filmes
+$ mkdir Comédia Aventura Suspense
+
+kaua_lp_silva@SN-358768 MINGW64 ~/home/aluno/filmes
+$ cd Comédia
+
+kaua_lp_silva@SN-358768 MINGW64 ~/home/aluno/filmes/Comédia
+$ mkdir Nacional Estrangeiro
+
+kaua_lp_silva@SN-358768 MINGW64 ~/home/aluno/filmes/Comédia
+$
+
+
+
+
+
