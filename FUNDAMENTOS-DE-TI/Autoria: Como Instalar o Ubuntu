@@ -1,0 +1,23 @@
+O Ubuntu é uma das distribuições de Linux mais famosas. Todo esse sucesso tem seus motivos:
+O sistema é bem fácil de usar e agrada até mesmo usuários iniciantes no mundo do software livre.
+Além disso, ele é uma boa opção para quem tem uma máquina encostada e com problemas de desempenho, por ser mais leve que seus concorrentes.
+
+Passo a Passo:
+1- Procure por Ubuntu no seu navegador
+2- Vá ao site do Ubuntu e vá na aba de downloads
+3- Instale a versão Desktop
+------------------------------
+4- Crie um disco bootável
+* imagem de disco do Ubuntu é .iso, portanto, não dá para simplesmente rodá-lo no seu computador. A forma mais fácil de criar esse disco é com um drive USB
+5- Reinicie para bootar
+*Agora é hora de rodar o disco bootável. Reinicie o computador com o drive USB plugado.
+6- Comece a instalação
+* Aparecerá a telas de boas vindas do Ubuntu, e no meio da tela terá duas opções. Clique na segunda opção "Instalar o Ubuntu"
+7- Escolha o idioma e configure o teclado
+8- Configure sua instalação
+9- Escolha o disco ou a partição
+10- Configure o seu acesso
+11- Aguarde a finalização
+*Agora apenas espere a instalação ser concluída
+12-Após a instalação terminar, você estará na tela inicial do Ubuntu, onde já poderá usá-lo.
+
