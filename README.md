@@ -3,17 +3,17 @@ Sobre Mim:
 Meu nome é Kauã Pereira da Silva, tenho 16 anos e estudo na Escola S, onde faço o curso de Desenvolvimento de Sistemas. 
 
 Qualidades:
-Ler com frequência e interpretação de texto
-Certa facilidade em usar o Figma
+Ler com frequência e interpretação de texto,
+certa facilidade em usar o Figma
 
 Objetivos:
-Perder peso 
-Praticar exercícios físicos
-Melhorar as minhas habilidades no Figma
+Perder peso,
+ praticar exercícios físicos,
+ melhorar as minhas habilidades no Figma
 
 Metas:
-Terminar o ensino médio e cursar Design
-Morar fora do Brasil, em algum país da Europa
+Terminar o ensino médio e cursar Design; 
+ morar fora do Brasil, em algum país da Europa
 
 Currículo:
 Ensino
