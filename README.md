@@ -21,11 +21,18 @@ Terminar o ensino médio e cursar Design;
 
 ##
 ## Currículo:
-Ensino
+
+
+##
+## Ensino:
 Ensino Fundamental I   1°Ano ao 5°Ano - Centro Educacional Estudarte
+
 Ensino Fundamental I I  6°Ano  ao  9° Ano - Centro Educacional Roda-Pião
+
 Ensino Médio  1° Ano - Centro Educacional Roda-Pião
+
 Ensino Médio 2° Ano ainda em andamento - SESI SENAI SC 
 
+##
 Fale comigo pelo e-mail [kaualucaspereira50@gmail.com]
 
